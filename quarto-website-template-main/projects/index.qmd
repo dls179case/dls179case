@@ -1,0 +1,20 @@
+---
+title: Projects
+---
+
+## Research in the Maiseyeu Lab at Case Western Reserve University
+
+Since 2024, in the Maiseyeu Lab at Case Western Reserve University's Department of Biomedical Engineering, under PI Andrei Maiseyeu, PhD, I have been developing a polymer nanoparticle library designed for barcoded high-throughput sequencing applications in nanomedicine. My training and contributions include optimizing Southern Blot protocols for DNA glycosylation assays and nanoparticle analysis, formulating and testing novel polymer nanoparticle compositions to effectively encapsulate DNA barcodes, harvesting bone marrow-derived macrophages from mouse long bones, and evaluating nanoparticle uptake in these cells to assess delivery efficiency and potential for immunological and epigenetic studies.
+
+----
+
+## Research in the Yang Lab at Cornell University
+
+In the Yang Lab at Cornell University's Department of Chemical and Biomolecular Engineering, under the guidance of PI Rong Yang, PhD, I advanced nanomedicine through two key projects. From 2019 to 2020, I focused on an antibiotic-free treatment for otitis media using an engineered hydrogel, where I drafted the IACUC animal protocol for chinchilla models, conducted general animal care, infection procedures, surgeries, and dissections, trained team members on these techniques, and cultured bacteria for infections. This effort, which earned me the Engineering Learning Initiatives Undergraduate Research Award, culminated in a [co-authored publication in Nano Today](https://www.sciencedirect.com/science/article/abs/pii/S1748013222003000?via%3Dihub). From 2020 to 2023, I pioneered a rapid, template- and solvent-free method for synthesizing aspherical polymer nanodomes via condensed droplet polymerization in a chemical vapor deposition chamber, including developing techniques to incorporate therapeutic drugs into the nanoparticle matrix without solvents. This work resulted in a [second-author manuscript in Chemistry of Materials](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c00964), a [patent](https://patents.google.com/patent/WO2023015183A1/en) on polymer nanoparticles via condensed droplet polymerization and solvent-free incorporation of therapeutic molecules, and recognition through the Hunter R. Rawlings III Cornell Presidential Research Scholar Award. I also received training in the Nanoscale Facility clean room for electron beam lithography.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

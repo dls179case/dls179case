@@ -1,0 +1,34 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "/2sq copy.jpg"
+  links:
+    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/danielle-streever-5868aa173
+    - icon: envelope
+      text: Email
+      href: "mailto:dls179@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Danielle Streever is a second-year MD/PhD candidate in the Medical Scientist Training Program at Case Western Reserve University School of Medicine, where she is pursuing a Doctor of Medicine (expected 2031) and a Doctor of Philosophy in Biomedical Engineering (expected 2029). Originally from Atlanta, Georgia, Danielle's journey into biomedical engineering began at Cornell University, where she earned a Bachelor of Science in the field  in 2022, followed by a Master of Engineering in 2023. Her academic path reflects a deep commitment to translating innovative engineering principles into clinical solutions, fueled by a passion for nanomedicine and its potential to address complex immunological and epigenetic challenges in patient care.
+
+With roots in both the arts and sciences—having trained and performed with Ballet Chicago post-high school—Danielle brings a uniquely interdisciplinary perspective to her work. Her research trajectory spans solvent-free nanoparticle synthesis, drug encapsulation techniques, and high-throughput sequencing applications, honed through roles at Cornell's Chemical and Biomolecular Engineering Department under PI Rong Yang and currently in the Maiseyeu Lab at Case Western. Key contributions include developing rapid methods for aspherical polymer nanodomes, authoring manuscripts on antiseptic delivery for otitis media, and optimizing nanoparticle libraries for DNA barcoding in vitro. Currently, under PI Andrei Maiseyeu, she is advancing a polymer nanoparticle library for barcoded high-throughput sequencing, optimizing Southern Blots for DNA glycosylation assays, and testing nanoparticle uptake in bone marrow-derived macrophages, further pushing the boundaries of nanomedicine for epigenetic and immunological applications. These efforts, recognized with awards like the Hunter R. Rawlings III Cornell Presidential Research Scholar and the Engineering Learning Initiatives Undergraduate Research Award, underscore her drive to innovate at the intersection of nanotechnology and personalized medicine.
+
+Beyond the lab, she is deeply engaged in teaching, leadership, and community service. As a Graduate Teaching Assistant at Cornell for courses in Biomedical Transport Phenomena and Molecular Principles of Biomedical Engineering, she mentored students through lectures, labs, and project guidance. In leadership roles at Case Western, she served as MSTP Retreat Chair for two years, CMDA Medical School Branch Leader, and M1 Social Chair at Case Western, fostering collaborative environments for aspiring physician-scientists. When not immersed in science, you'll find her composing music on violin, dancing, or scaling rock walls.
+
+Please feel free to [contact me](mailto:dls179@case.edu) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
