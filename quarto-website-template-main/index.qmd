@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "./2sq_copy.jpg"
+  image: "img/2sq_copy.jpg"
   links:
     
     - icon: linkedin
