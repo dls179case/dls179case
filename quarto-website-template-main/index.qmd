@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "/img/face.png"
+  image: "img/2sq_copy.jpg"
   links:
     
     - icon: linkedin
@@ -25,6 +25,9 @@ With roots in both the arts and sciences—having trained and performed with Bal
 Beyond the lab, she is deeply engaged in teaching, leadership, and community service. As a Graduate Teaching Assistant at Cornell for courses in Biomedical Transport Phenomena and Molecular Principles of Biomedical Engineering, she mentored students through lectures, labs, and project guidance. In leadership roles at Case Western, she served as MSTP Retreat Chair for two years, CMDA Medical School Branch Leader, and M1 Social Chair at Case Western, fostering collaborative environments for aspiring physician-scientists. When not immersed in science, you'll find her composing music on violin, dancing, or scaling rock walls.
 
 Please feel free to [contact me](mailto:dls179@case.edu) if you have any questions or would like to discuss potential projects.
+
+
+
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
